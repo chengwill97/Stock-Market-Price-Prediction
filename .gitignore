@@ -1,0 +1,4 @@
+glove.6B
+data
+*.ipynb_checkpoints
+__pycache__
