@@ -1,4 +1,4 @@
-name: massive_data
+name: stock_prediction
 channels:
   - defaults
 dependencies:
@@ -126,5 +126,3 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /home/willc97/miniconda2/envs/massive_data
-
