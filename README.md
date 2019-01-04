@@ -74,7 +74,7 @@ git clone https://github.com/chengwill97/Stock-Market-Price-Prediction.git
 Software:
 - python3.6
 - Anaconda/Miniconda Package Manager
-<br>
+
 Miniconda will only install the minimum required packages to run python and you can install the rest of the packages using our environment.yml file :)
 
 1. Make sure you have Anaconda/Miniconda or install it here
