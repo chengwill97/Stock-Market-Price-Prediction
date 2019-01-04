@@ -1,3 +1,7 @@
+#### Table of Contents
+1. Project Description
+2. Installation Instructions
+
 # <h60><center> Massive Data Storage, Retrieval, and Deep Learning 198:543 <br> Project Final Report
 
 ## <center> Technology Stock Prediction Using Website Traffic and Sentiment of News Articles.
@@ -8,9 +12,17 @@
 
 ### Authors
 
-**Akash Desai, RU Fall'18 MechE and CS**
+**Akash Desai, RU Fall'18 CS and Applied Sciences in Engineering**
 <br>
+![Akash Graduated][akash_graduated]
+
+[akash_graduated]: img/graduated-100%-brightgreen.svg "Akash graduated Fall 2019"
+
 **William Cheng, RU Spring'19 CS and Physics**
+<br>
+![William Graduated][william_graduated]
+
+[william_graduated]: img/graduated-88%-green.svg "Akash graduated Fall 2019"
 
 ### Description
 
@@ -56,11 +68,11 @@ From the bar plots of the metrics below, it can be seen that the Amazon Finance 
 
 ![alt text][dl_results]
 
-[dl_results]: ./img/dl_results.png "Logo Title Text 2"
+[dl_results]: ./img/dl_results.png "Deep Learning Results"
 
 ![alt text][dl_metrics]
 
-[dl_metrics]: ./img/dl_metrics.png "Logo Title Text 2"
+[dl_metrics]: ./img/dl_metrics.png "Deep Learning Metrics"
 
 ## Getting Started
 
