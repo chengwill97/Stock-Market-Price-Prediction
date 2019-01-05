@@ -16,13 +16,13 @@
 <br>
 ![Akash Graduated][akash_graduated]
 
-[akash_graduated]: img/graduated-100%-brightgreen.svg "Akash graduated Fall 2019"
+[akash_graduated]: ./img/graduated-100%-brightgreen.svg "Akash graduated Fall 2019"
 
 **William Cheng, RU Spring'19 CS and Physics**
 <br>
 ![William Graduated][william_graduated]
 
-[william_graduated]: img/graduated-88%-green.svg "Akash graduated Fall 2019"
+[william_graduated]: ./img/graduated-88%-green.svg "Akash graduated Fall 2019"
 
 ### Description
 
